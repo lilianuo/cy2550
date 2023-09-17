@@ -1,0 +1,253 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 14:22 ?        00:00:01 /sbin/init splash
+root           2       0  0 14:22 ?        00:00:00 [kthreadd]
+root           3       2  0 14:22 ?        00:00:00 [rcu_gp]
+root           4       2  0 14:22 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 14:22 ?        00:00:00 [slub_flushwq]
+root           6       2  0 14:22 ?        00:00:00 [netns]
+root          10       2  0 14:22 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 14:22 ?        00:00:00 [rcu_tasks_rude_kthread]
+root          12       2  0 14:22 ?        00:00:00 [rcu_tasks_trace_kthread]
+root          13       2  0 14:22 ?        00:00:00 [ksoftirqd/0]
+root          14       2  0 14:22 ?        00:00:01 [rcu_sched]
+root          15       2  0 14:22 ?        00:00:00 [migration/0]
+root          17       2  0 14:22 ?        00:00:00 [cpuhp/0]
+root          18       2  0 14:22 ?        00:00:00 [cpuhp/1]
+root          19       2  0 14:22 ?        00:00:00 [migration/1]
+root          20       2  0 14:22 ?        00:00:00 [ksoftirqd/1]
+root          22       2  0 14:22 ?        00:00:00 [kworker/1:0H-events_highpri]
+root          23       2  0 14:22 ?        00:00:00 [cpuhp/2]
+root          24       2  0 14:22 ?        00:00:00 [migration/2]
+root          25       2  0 14:22 ?        00:00:00 [ksoftirqd/2]
+root          27       2  0 14:22 ?        00:00:00 [kworker/2:0H-events_highpri]
+root          28       2  0 14:22 ?        00:00:00 [cpuhp/3]
+root          29       2  0 14:22 ?        00:00:00 [migration/3]
+root          30       2  0 14:22 ?        00:00:00 [ksoftirqd/3]
+root          32       2  0 14:22 ?        00:00:00 [kworker/3:0H-events_highpri]
+root          34       2  0 14:22 ?        00:00:00 [kdevtmpfs]
+root          35       2  0 14:22 ?        00:00:00 [inet_frag_wq]
+root          36       2  0 14:22 ?        00:00:00 [kauditd]
+root          37       2  0 14:22 ?        00:00:00 [khungtaskd]
+root          39       2  0 14:22 ?        00:00:00 [oom_reaper]
+root          40       2  0 14:22 ?        00:00:00 [writeback]
+root          41       2  0 14:22 ?        00:00:00 [kcompactd0]
+root          42       2  0 14:22 ?        00:00:00 [ksmd]
+root          43       2  0 14:22 ?        00:00:00 [khugepaged]
+root          44       2  0 14:22 ?        00:00:00 [kintegrityd]
+root          45       2  0 14:22 ?        00:00:00 [kblockd]
+root          46       2  0 14:22 ?        00:00:00 [blkcg_punt_bio]
+root          47       2  0 14:22 ?        00:00:00 [tpm_dev_wq]
+root          48       2  0 14:22 ?        00:00:00 [edac-poller]
+root          49       2  0 14:22 ?        00:00:00 [devfreq_wq]
+root          50       2  0 14:22 ?        00:00:00 [watchdogd]
+root          51       2  0 14:22 ?        00:00:00 [kworker/0:1H-kblockd]
+root          52       2  0 14:22 ?        00:00:00 [kswapd0]
+root          60       2  0 14:22 ?        00:00:00 [kthrotld]
+root          62       2  0 14:22 ?        00:00:00 [irq/15-pciehp]
+root          63       2  0 14:22 ?        00:00:00 [irq/16-pciehp]
+root          64       2  0 14:22 ?        00:00:00 [irq/17-pciehp]
+root          65       2  0 14:22 ?        00:00:00 [irq/18-pciehp]
+root          66       2  0 14:22 ?        00:00:00 [irq/19-pciehp]
+root          67       2  0 14:22 ?        00:00:00 [irq/20-pciehp]
+root          68       2  0 14:22 ?        00:00:00 [irq/21-pciehp]
+root          69       2  0 14:22 ?        00:00:00 [irq/22-pciehp]
+root          70       2  0 14:22 ?        00:00:00 [irq/23-pciehp]
+root          71       2  0 14:22 ?        00:00:00 [irq/24-pciehp]
+root          72       2  0 14:22 ?        00:00:00 [irq/25-pciehp]
+root          73       2  0 14:22 ?        00:00:00 [irq/26-pciehp]
+root          74       2  0 14:22 ?        00:00:00 [irq/27-pciehp]
+root          75       2  0 14:22 ?        00:00:00 [irq/28-pciehp]
+root          76       2  0 14:22 ?        00:00:00 [irq/29-pciehp]
+root          77       2  0 14:22 ?        00:00:00 [irq/30-pciehp]
+root          78       2  0 14:22 ?        00:00:00 [irq/31-pciehp]
+root          79       2  0 14:22 ?        00:00:00 [irq/32-pciehp]
+root          80       2  0 14:22 ?        00:00:00 [irq/33-pciehp]
+root          81       2  0 14:22 ?        00:00:00 [irq/34-pciehp]
+root          82       2  0 14:22 ?        00:00:00 [irq/35-pciehp]
+root          83       2  0 14:22 ?        00:00:00 [irq/36-pciehp]
+root          84       2  0 14:22 ?        00:00:00 [irq/37-pciehp]
+root          85       2  0 14:22 ?        00:00:00 [irq/38-pciehp]
+root          86       2  0 14:22 ?        00:00:00 [irq/39-pciehp]
+root          87       2  0 14:22 ?        00:00:00 [irq/40-pciehp]
+root          88       2  0 14:22 ?        00:00:00 [irq/41-pciehp]
+root          89       2  0 14:22 ?        00:00:00 [irq/42-pciehp]
+root          90       2  0 14:22 ?        00:00:00 [irq/43-pciehp]
+root          91       2  0 14:22 ?        00:00:00 [irq/44-pciehp]
+root          92       2  0 14:22 ?        00:00:00 [irq/45-pciehp]
+root          93       2  0 14:22 ?        00:00:00 [irq/46-pciehp]
+root          94       2  0 14:22 ?        00:00:00 [acpi_thermal_pm]
+root          95       2  0 14:22 ?        00:00:00 [xenbus_probe]
+root          97       2  0 14:22 ?        00:00:00 [mld]
+root          98       2  0 14:22 ?        00:00:00 [ipv6_addrconf]
+root         103       2  0 14:22 ?        00:00:00 [kstrp]
+root         108       2  0 14:22 ?        00:00:00 [zswap-shrink]
+root         109       2  0 14:22 ?        00:00:00 [kworker/u9:0]
+root         177       2  0 14:22 ?        00:00:00 [kworker/2:1H-kblockd]
+root         192       2  0 14:22 ?        00:00:00 [kworker/3:1H-kblockd]
+root         204       2  0 14:22 ?        00:00:00 [kworker/1:1H-kblockd]
+root         208       2  0 14:22 ?        00:00:00 [ata_sff]
+root         223       2  0 14:22 ?        00:00:00 [irq/60-vmwgfx]
+root         226       2  0 14:22 ?        00:00:00 [irq/61-vmwgfx]
+root         227       2  0 14:22 ?        00:00:00 [irq/62-vmwgfx]
+root         228       2  0 14:22 ?        00:00:00 [irq/63-vmwgfx]
+root         229       2  0 14:22 ?        00:00:00 [irq/64-vmwgfx]
+root         230       2  0 14:22 ?        00:00:00 [irq/65-vmwgfx]
+root         232       2  0 14:22 ?        00:00:00 [ttm]
+root         240       2  0 14:22 ?        00:00:00 [nvme-wq]
+root         241       2  0 14:22 ?        00:00:00 [nvme-reset-wq]
+root         242       2  0 14:22 ?        00:00:00 [nvme-delete-wq]
+root         244       2  0 14:22 ?        00:00:00 [scsi_eh_0]
+root         245       2  0 14:22 ?        00:00:00 [scsi_tmf_0]
+root         246       2  0 14:22 ?        00:00:00 [scsi_eh_1]
+root         247       2  0 14:22 ?        00:00:00 [scsi_tmf_1]
+root         248       2  0 14:22 ?        00:00:00 [scsi_eh_2]
+root         249       2  0 14:22 ?        00:00:00 [scsi_tmf_2]
+root         250       2  0 14:22 ?        00:00:00 [scsi_eh_3]
+root         251       2  0 14:22 ?        00:00:00 [scsi_tmf_3]
+root         252       2  0 14:22 ?        00:00:00 [scsi_eh_4]
+root         253       2  0 14:22 ?        00:00:00 [scsi_tmf_4]
+root         255       2  0 14:22 ?        00:00:00 [scsi_eh_5]
+root         256       2  0 14:22 ?        00:00:00 [scsi_tmf_5]
+root         257       2  0 14:22 ?        00:00:00 [scsi_eh_6]
+root         258       2  0 14:22 ?        00:00:00 [scsi_tmf_6]
+root         259       2  0 14:22 ?        00:00:00 [scsi_eh_7]
+root         261       2  0 14:22 ?        00:00:00 [scsi_tmf_7]
+root         262       2  0 14:22 ?        00:00:00 [scsi_eh_8]
+root         263       2  0 14:22 ?        00:00:00 [scsi_tmf_8]
+root         264       2  0 14:22 ?        00:00:00 [scsi_eh_9]
+root         265       2  0 14:22 ?        00:00:00 [scsi_tmf_9]
+root         266       2  0 14:22 ?        00:00:00 [scsi_eh_10]
+root         267       2  0 14:22 ?        00:00:00 [scsi_tmf_10]
+root         268       2  0 14:22 ?        00:00:00 [scsi_eh_11]
+root         269       2  0 14:22 ?        00:00:00 [scsi_tmf_11]
+root         270       2  0 14:22 ?        00:00:00 [scsi_eh_12]
+root         271       2  0 14:22 ?        00:00:00 [scsi_tmf_12]
+root         272       2  0 14:22 ?        00:00:00 [scsi_eh_13]
+root         274       2  0 14:22 ?        00:00:00 [scsi_tmf_13]
+root         275       2  0 14:22 ?        00:00:00 [scsi_eh_14]
+root         276       2  0 14:22 ?        00:00:00 [scsi_tmf_14]
+root         277       2  0 14:22 ?        00:00:00 [scsi_eh_15]
+root         279       2  0 14:22 ?        00:00:00 [scsi_tmf_15]
+root         280       2  0 14:22 ?        00:00:00 [scsi_eh_16]
+root         281       2  0 14:22 ?        00:00:00 [scsi_tmf_16]
+root         282       2  0 14:22 ?        00:00:00 [scsi_eh_17]
+root         283       2  0 14:22 ?        00:00:00 [scsi_tmf_17]
+root         284       2  0 14:22 ?        00:00:00 [scsi_eh_18]
+root         285       2  0 14:22 ?        00:00:00 [scsi_tmf_18]
+root         286       2  0 14:22 ?        00:00:00 [scsi_eh_19]
+root         287       2  0 14:22 ?        00:00:00 [scsi_tmf_19]
+root         288       2  0 14:22 ?        00:00:00 [scsi_eh_20]
+root         289       2  0 14:22 ?        00:00:00 [scsi_tmf_20]
+root         290       2  0 14:22 ?        00:00:00 [scsi_eh_21]
+root         291       2  0 14:22 ?        00:00:00 [scsi_tmf_21]
+root         292       2  0 14:22 ?        00:00:00 [scsi_eh_22]
+root         293       2  0 14:22 ?        00:00:00 [scsi_tmf_22]
+root         294       2  0 14:22 ?        00:00:00 [scsi_eh_23]
+root         295       2  0 14:22 ?        00:00:00 [scsi_tmf_23]
+root         296       2  0 14:22 ?        00:00:00 [scsi_eh_24]
+root         297       2  0 14:22 ?        00:00:00 [scsi_tmf_24]
+root         298       2  0 14:22 ?        00:00:00 [scsi_eh_25]
+root         299       2  0 14:22 ?        00:00:00 [scsi_tmf_25]
+root         300       2  0 14:22 ?        00:00:00 [scsi_eh_26]
+root         301       2  0 14:22 ?        00:00:00 [scsi_tmf_26]
+root         302       2  0 14:22 ?        00:00:00 [scsi_eh_27]
+root         303       2  0 14:22 ?        00:00:00 [scsi_tmf_27]
+root         304       2  0 14:22 ?        00:00:00 [scsi_eh_28]
+root         305       2  0 14:22 ?        00:00:00 [scsi_tmf_28]
+root         306       2  0 14:22 ?        00:00:00 [scsi_eh_29]
+root         307       2  0 14:22 ?        00:00:00 [scsi_tmf_29]
+root         382       2  0 14:22 ?        00:00:00 [jbd2/nvme0n1p2-8]
+root         383       2  0 14:22 ?        00:00:00 [ext4-rsv-conver]
+root         441       1  0 14:22 ?        00:00:00 /lib/systemd/systemd-journald
+root         459       1  0 14:22 ?        00:00:00 vmware-vmblock-fuse /run/vmblock-fuse -o rw,subtype=vmware-vmblock,default_permissions,allow_other,dev,suid
+root         462       1  0 14:22 ?        00:00:00 /lib/systemd/systemd-udevd
+root         463       2  0 14:22 ?        00:00:00 [psimon]
+root         487       2  0 14:22 ?        00:00:00 [psimon]
+root         624       1  0 14:22 ?        00:00:00 /usr/sbin/haveged --Foreground --verbose=1
+systemd+     626       1  0 14:22 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         628       1  0 14:22 ?        00:00:36 /usr/bin/vmtoolsd
+root         875       2  0 14:22 ?        00:00:00 [rpciod]
+root         876       2  0 14:22 ?        00:00:00 [xprtiod]
+root         887       2  0 14:22 ?        00:00:00 [psimon]
+root         888       1  0 14:22 ?        00:00:00 /usr/sbin/cron -f
+message+     889       1  0 14:22 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+polkitd      891       1  0 14:22 ?        00:00:00 /usr/lib/polkit-1/polkitd --no-debug
+root         892       1  0 14:22 ?        00:00:00 /lib/systemd/systemd-logind
+root         912       2  0 14:22 ?        00:00:00 [psimon]
+root         913       1  0 14:22 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         926       1  0 14:22 ?        00:00:00 /usr/sbin/ModemManager
+root         936       1  0 14:22 ?        00:00:00 /usr/sbin/lightdm
+root         959     936  0 14:22 tty7     00:00:25 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         960       1  0 14:22 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear - linux
+root        1058       2  0 14:22 ?        00:00:00 [psimon]
+rtkit       1088       1  0 14:22 ?        00:00:00 /usr/libexec/rtkit-daemon
+root        1676     936  0 14:38 ?        00:00:00 lightdm --session-child 15 26
+lilian      1685       1  0 14:38 ?        00:00:00 /lib/systemd/systemd --user
+lilian      1686    1685  0 14:38 ?        00:00:00 (sd-pam)
+root        1702       2  0 14:38 ?        00:00:00 [psimon]
+lilian      1705    1685  0 14:38 ?        00:00:00 /usr/bin/pipewire
+lilian      1706    1685  0 14:38 ?        00:00:00 /usr/bin/pipewire -c filter-chain.conf
+lilian      1707    1685  0 14:38 ?        00:00:00 /usr/bin/wireplumber
+lilian      1708    1685  0 14:38 ?        00:00:00 /usr/bin/pipewire-pulse
+lilian      1709    1685  0 14:38 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+lilian      1711    1685  0 14:38 ?        00:00:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+lilian      1735    1676  0 14:38 ?        00:00:00 xfce4-session
+lilian      1779    1735  0 14:38 ?        00:00:00 /usr/bin/ssh-agent x-session-manager
+lilian      1789    1685  0 14:38 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+lilian      1796    1789  0 14:38 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+lilian      1808    1685  0 14:38 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+lilian      1820    1685  0 14:38 ?        00:00:00 /usr/bin/gpg-agent --supervised
+lilian      1822    1735  0 14:38 ?        00:00:04 xfwm4 --display :0.0 --sm-client-id 20cebe6fa-0c9e-4185-b2cc-d2ea42a07809
+lilian      1826    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfsd
+lilian      1832    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+root        1860       1  0 14:38 ?        00:00:00 /usr/libexec/upowerd
+lilian      1867    1685  0 14:38 ?        00:00:00 /usr/libexec/xdg-permission-store
+lilian      1876    1735  0 14:38 ?        00:00:00 Thunar --sm-client-id 2b1f92e80-f689-4def-acd8-a6ce9f12bef5 --daemon
+lilian      1962    1735  0 14:38 ?        00:00:00 xfce4-power-manager --restart --sm-client-id 2619385d7-e1d1-4b5b-a175-b75a4b61c490
+lilian      1968    1735  0 14:38 ?        00:00:00 /usr/bin/python3 /usr/bin/blueman-applet
+lilian      1969    1735  0 14:38 ?        00:00:00 /usr/libexec/geoclue-2.0/demos/agent
+lilian      1971       1  0 14:38 ?        00:00:34 /usr/bin/vmtoolsd -n vmusr --blockFd 3
+lilian      1978    1735  0 14:38 ?        00:00:00 nm-applet
+lilian      1985    1735  0 14:38 ?        00:00:00 light-locker
+lilian      2009       1  0 14:38 ?        00:00:00 xcape -e Super_L Control_L Escape
+lilian      2012    1685  0 14:38 ?        00:00:00 /usr/libexec/dconf-service
+lilian      2049    1735  0 14:38 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+lilian      2059    1735  0 14:38 ?        00:00:00 xiccd
+colord      2096       1  0 14:38 ?        00:00:00 /usr/libexec/colord
+lilian      2132    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+root        2151       1  0 14:38 ?        00:00:00 /usr/libexec/udisks2/udisksd
+lilian      2165    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+lilian      2172    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+lilian      2177    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+lilian      2184    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+lilian      2200    1826  0 14:38 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+lilian      2208    1685  0 14:38 ?        00:00:00 /usr/libexec/gvfsd-metadata
+lilian      2219    1685  0 14:38 ?        00:00:00 /usr/libexec/bluetooth/obexd
+root        3725       2  0 14:41 ?        00:00:00 [kworker/0:2H]
+lilian     16713       1  0 15:06 ?        00:00:04 /usr/bin/qterminal
+lilian     16716   16713  0 15:06 pts/0    00:00:03 /usr/bin/zsh
+lilian     18321       1  0 15:09 ?        00:00:00 xfsettingsd
+lilian     18334       1  0 15:09 ?        00:00:01 xfce4-panel
+lilian     18346       1  0 15:09 ?        00:00:00 xfdesktop
+lilian     18360   18334  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 25165831 whiskermenu Whisker Menu Show a menu to easily access installed applications
+lilian     18364   18334  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libsystray.so 14 25165839 systray Status Tray Plugin Provides status notifier items (application indicators) and legacy systray items
+lilian     18365   18334  0 15:09 ?        00:00:22 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libgenmon.so 15 25165840 genmon Generic Monitor Show output of a command.
+lilian     18366   18334  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 16 25165841 pulseaudio PulseAudio Plugin Adjust the audio volume of the PulseAudio sound system
+lilian     18367   18334  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 17 25165842 notification-plugin Notification Plugin Notification plugin for the Xfce panel
+lilian     18374   18334  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 18 25165843 power-manager-plugin Power Manager Plugin Display the battery levels of your devices and control the brightness of your display
+lilian     18378   18334  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/aarch64-linux-gnu/xfce4/panel/plugins/libactions.so 2200 25165844 actions Action Buttons Log out, lock or other system actions
+lilian     18412    1685  0 15:09 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+lilian     22755    1826  0 15:18 ?        00:00:00 /usr/libexec/gvfsd-computer --spawner :1.20 /org/gtk/gvfs/exec_spaw/1
+root       56995       2  0 16:27 ?        00:00:00 [kworker/0:3-events]
+root       60166       2  0 16:33 ?        00:00:00 [kworker/1:2-mm_percpu_wq]
+root       61517       2  0 16:36 ?        00:00:00 [kworker/2:1-cgroup_destroy]
+root       61558       2  0 16:36 ?        00:00:00 [kworker/u8:1-events_unbound]
+root       65949       2  0 16:45 ?        00:00:00 [kworker/3:0-mm_percpu_wq]
+root       69484       2  0 16:52 ?        00:00:00 [kworker/0:0-events]
+root       69735       2  0 16:53 ?        00:00:00 [kworker/u8:3-events_unbound]
+root       70033       2  0 16:53 ?        00:00:00 [kworker/1:1-events]
+root       70568       2  0 16:53 ?        00:00:00 [kworker/u8:4-flush-259:0]
+root       70783       2  0 16:54 ?        00:00:00 [kworker/2:0-mm_percpu_wq]
+root       74104       2  0 17:00 ?        00:00:00 [kworker/3:1-mm_percpu_wq]
+lilian     76352    1685  0 17:05 ?        00:00:00 /usr/lib/aarch64-linux-gnu/xfce4/xfconf/xfconfd
+lilian     76928   16716 99 17:05 pts/0    00:00:00 ps -ef
